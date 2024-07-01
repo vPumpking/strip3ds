@@ -25,7 +25,7 @@ The Linux version is still in development and won't be available in a while, sin
 # Features
 Strip3ds is meant to extract the 3D models and resources from one or several 3DS rom(s), however the current version is lacking some file format conversions, and has only be tested with a Super Mario 3D Land ROM. It may lack some specific file formats, such as those from Luigi's Mansion 2 or Pokémon games.
 # CONTRIBUTE
-**Any** help is appreciated. As I'm not the best repository manager, though the one strip3ds is in can be missing some security settings. **If you find yourself able to merge a PR without my consent, please don't and wait for my approval.**
+**Any** help is appreciated. I'm not the best repository manager, though the one strip3ds is in can be missing some security settings. **If you find yourself able to merge a PR without my consent, please don't and wait for my approval.**
 ## Compile from source (Windows)
 To compile the .c file, you can use whatever C compiler you want. I use gcc, you can have it on Windows by installing MINGW from https://www.mingw-w64.org/ then run
 ```powershell
