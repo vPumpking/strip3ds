@@ -1,5 +1,7 @@
 # Welcome to **strip3ds**!
 
+![Screenshot of the program](./Screenshot.png)
+
 This tool was made for everyone who wants to extract Nintendo 3DS game resources, but who finds the process too hard or who wants to do it on a large batch of files.
 This is a program using several other tools, one for each operation, at a same time, so you don't have to do it yourself.
 
